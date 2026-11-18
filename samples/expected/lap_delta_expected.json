@@ -1,0 +1,10 @@
+{
+  "lap_a": "spa_gt3_lap_a.csv",
+  "lap_b": "spa_gt3_lap_b.csv",
+  "total_delta_seconds": 0.45,
+  "delta_by_sector": {
+    "Sector 1": 0.10,
+    "Sector 2": 0.25,
+    "Sector 3": 0.10
+  }
+}
