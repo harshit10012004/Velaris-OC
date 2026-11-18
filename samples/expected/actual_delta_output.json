@@ -1,0 +1,412 @@
+{
+  "lap_a": "spa_gt3_lap_a.csv",
+  "lap_b": "spa_gt3_lap_b.csv",
+  "total_delta_seconds": 0.0,
+  "delta_by_sector": {
+    "Sector 1": 0.0,
+    "Sector 2": 0.0,
+    "Sector 3": 0.0
+  },
+  "trace": [
+    {
+      "progress": 0.0,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.01,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.02,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.03,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.04,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.051,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.061,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.071,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.081,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.091,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.101,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.111,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.121,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.131,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.141,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.152,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.162,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.172,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.182,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.192,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.202,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.212,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.222,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.232,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.242,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.253,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.263,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.273,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.283,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.293,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.303,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.313,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.323,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.333,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.343,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.354,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.364,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.374,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.384,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.394,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.404,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.414,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.424,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.434,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.444,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.455,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.465,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.475,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.485,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.495,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.505,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.515,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.525,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.535,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.545,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.556,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.566,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.576,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.586,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.596,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.606,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.616,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.626,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.636,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.646,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.657,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.667,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.677,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.687,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.697,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.707,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.717,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.727,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.737,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.747,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.758,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.768,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.778,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.788,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.798,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.808,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.818,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.828,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.838,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.848,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.859,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.869,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.879,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.889,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.899,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.909,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.919,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.929,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.939,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.949,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.96,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.97,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.98,
+      "delta": 0.0
+    },
+    {
+      "progress": 0.99,
+      "delta": 0.0
+    },
+    {
+      "progress": 1.0,
+      "delta": 0.0
+    }
+  ]
+}
