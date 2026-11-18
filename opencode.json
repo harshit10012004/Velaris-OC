@@ -1,0 +1,6 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "opencode/big-pickle",
+  "instructions": ["AGENTS.md", "contracts/script_io.md"],
+  "default_agent": "velaris-builder"
+}

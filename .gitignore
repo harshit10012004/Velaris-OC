@@ -1,0 +1,36 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large telemetry files — commit README only, not the CSV
+samples/motec_csv/*.csv
+!samples/motec_csv/README.md
+
+# Runtime queues
+dead_letter/*
+!dead_letter/.gitkeep
+inbox/*
+!inbox/.gitkeep
+approvals/*/*
+!approvals/*/.gitkeep
+
+# Logs
+*.log

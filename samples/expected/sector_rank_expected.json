@@ -1,0 +1,33 @@
+{
+  "reference_lap": "spa_gt3_lap_a.csv",
+  "comparison_lap": "spa_gt3_lap_b.csv",
+  "top_loss_zones": [
+    {
+      "rank": 1,
+      "corner": "Pouhon",
+      "phase": "entry",
+      "time_cost_s": 0.22,
+      "evidence": "Comparison lap enters Pouhon 6 km/h slower and reaches a lower minimum speed.",
+      "cause": "Late braking and excessive entry speed reduction.",
+      "confidence": "medium"
+    },
+    {
+      "rank": 2,
+      "corner": "Les Combes",
+      "phase": "exit",
+      "time_cost_s": 0.18,
+      "evidence": "Comparison lap reaches the following straight with less speed.",
+      "cause": "Early throttle application is delayed after the corner.",
+      "confidence": "medium"
+    },
+    {
+      "rank": 3,
+      "corner": "Stavelot",
+      "phase": "apex",
+      "time_cost_s": 0.14,
+      "evidence": "Comparison lap loses more speed through the long right-hand corner.",
+      "cause": "Insufficient minimum speed through the apex.",
+      "confidence": "low"
+    }
+  ]
+}

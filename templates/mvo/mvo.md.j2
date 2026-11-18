@@ -1,0 +1,29 @@
+﻿# Performance Gap Audit — {{ driver_name }} — {{ track }} — GT3
+
+## 1. Executive Summary
+{{ executive_summary }}
+
+> The one change: {{ one_change_short }}
+
+## 2. Ranked Time-Loss Zones
+| Rank | Corner | Phase | Time Cost | Evidence | Cause | Confidence |
+{% for z in zones -%}
+| {{ loop.index }} | {{ z.corner }} | {{ z.phase }} | {{ z.time_cost }} | {{ z.evidence }} | {{ z.cause }} | {{ z.confidence }} |
+{% endfor %}
+
+## 3. The One Prescriptive Change
+**What:** {{ change.what }}  
+**Where:** {{ change.where }}  
+**Expected gain:** {{ change.expected_gain }}  
+**Risk:** {{ change.risk }}  
+**How to test next stint:** {{ change.validation }}
+
+## 4. Data Gaps & Caveats
+{% for gap in data_gaps -%}
+- **{{ gap.field }}:** {{ gap.issue }} → {{ gap.effect }}
+{% endfor %}
+
+## 5. What to Test in Your Next Stint
+{{ next_test }}
+
+**One question to answer:** {{ next_question }}
